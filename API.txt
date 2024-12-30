@@ -1,0 +1,17 @@
+SOAP WebServices:
+	Simple Object Access Protocol
+	Higher Complexity, slower
+	only allows XML
+	Enterprise level Web services
+	HTTP POST
+
+REST WebServices:
+	REpresentational State Transfer
+	More flexible, better performance
+	Allows XML,JSON,HTML & Plain text
+	Popular in public APIs
+	HTTP POST,GET,DELETE,PUT & PATCH Methods
+	
+Rest Assured support both SOAP and REST API testing
+	
+	

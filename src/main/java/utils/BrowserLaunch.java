@@ -19,6 +19,7 @@ public class BrowserLaunch {
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getCurrentUrl());
 		driver.quit();
+//driver.close();
 	}
 
 }
